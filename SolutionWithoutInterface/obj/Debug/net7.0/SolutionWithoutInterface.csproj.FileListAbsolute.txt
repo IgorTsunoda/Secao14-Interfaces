@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\bin\Debug\net7.0\SolutionWithoutInterface.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\bin\Debug\net7.0\SolutionWithoutInterface.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\bin\Debug\net7.0\SolutionWithoutInterface.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\bin\Debug\net7.0\SolutionWithoutInterface.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\bin\Debug\net7.0\SolutionWithoutInterface.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\refint\SolutionWithoutInterface.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\SolutionWithoutInterface.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\Secao14-Interfaces\SolutionWithoutInterface\obj\Debug\net7.0\ref\SolutionWithoutInterface.dll
