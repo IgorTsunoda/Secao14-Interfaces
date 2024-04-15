@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\bin\Debug\net7.0\InterfaceFixingExercise.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\bin\Debug\net7.0\InterfaceFixingExercise.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\bin\Debug\net7.0\InterfaceFixingExercise.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\bin\Debug\net7.0\InterfaceFixingExercise.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\bin\Debug\net7.0\InterfaceFixingExercise.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\refint\InterfaceFixingExercise.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\InterfaceFixingExercise.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\InterfaceFixingExercise\InterfaceFixingExercise\obj\Debug\net7.0\ref\InterfaceFixingExercise.dll
