@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FHxGYT/WszX3HNh5RlDbxbA5lJND6aLX7ISCkcHCmOKgMu6IiObuYZuWhEcybcIMlz5mmdsdWexwDnLcjHDS1Q==",
+  "dgSpecHash": "NW9eV/uvTwM778JJ2sj7IlNN7A8jvYPUvBeGEqFaTG3/DWePkFNu77oWC4skxVlPbvV16goQyt86ZWI9f7UgWg==",
   "success": true,
-  "projectFilePath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao14-Interfaces\\HerdarVsDoContract\\HerdarVsDoContract\\HerdarVsDoContract.csproj",
+  "projectFilePath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao14-Interfaces\\Secao14-Interfaces\\HerdarVsDoContract\\HerdarVsDoContract\\HerdarVsDoContract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

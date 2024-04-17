@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HerdarVsDoContract.Model.Entities
 {
-    abstract class Shape
+    internal abstract class AbstractShape : IShape
     {
         public Color Color { get; set; }
         public abstract double Area();

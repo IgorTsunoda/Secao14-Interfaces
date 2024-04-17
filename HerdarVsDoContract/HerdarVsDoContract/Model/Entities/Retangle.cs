@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HerdarVsDoContract.Model.Entities
 {
-    internal class Retangle : Shape
+    internal class Retangle : AbstractShape
     {
         public double Width { get; set; }
         public double Height { get; set; }

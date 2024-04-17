@@ -7,7 +7,7 @@ using System.Globalization;
 
 namespace HerdarVsDoContract.Model.Entities
 {
-    internal class Circle : Shape
+    internal class Circle : AbstractShape
     {
         public double Radius { get; set; }
 
