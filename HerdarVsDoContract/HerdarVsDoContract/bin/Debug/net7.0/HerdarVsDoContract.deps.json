@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HerdarVsDoContract/1.0.0": {
+        "runtime": {
+          "HerdarVsDoContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HerdarVsDoContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
