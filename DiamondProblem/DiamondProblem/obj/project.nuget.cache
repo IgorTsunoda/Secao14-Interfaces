@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcfL7Tyfo80OBYX6x6R0Sr9eHx5hLOQNWQDveslEVL5s1Vy5HyaxemrFQCJOBAX/ZDyYgJX3GC+o9E2yvv0oqg==",
+  "dgSpecHash": "SRXG+hjr+m3CAsfJqz2V/fSTtSH73J08ls6kmxh/KqU+vuBhA8zyTk8kqk3klR6d7pBj41+oOB/c+6cdZwuaEA==",
   "success": true,
-  "projectFilePath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao14-Interfaces\\DiamondProblem\\DiamondProblem\\DiamondProblem.csproj",
+  "projectFilePath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao14-Interfaces\\Secao14-Interfaces\\DiamondProblem\\DiamondProblem\\DiamondProblem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

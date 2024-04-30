@@ -20,5 +20,6 @@ namespace DiamondProblem
             c.ProcessDoc("My disertation)");
             c.Print("My disertation");
             Console.WriteLine(c.Scan);
+        }
     }
 }
