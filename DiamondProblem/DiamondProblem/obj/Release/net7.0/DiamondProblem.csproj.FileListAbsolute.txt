@@ -1,0 +1,5 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Release\net7.0\DiamondProblem.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Release\net7.0\DiamondProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Release\net7.0\DiamondProblem.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Release\net7.0\DiamondProblem.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Release\net7.0\DiamondProblem.csproj.CoreCompileInputs.cache

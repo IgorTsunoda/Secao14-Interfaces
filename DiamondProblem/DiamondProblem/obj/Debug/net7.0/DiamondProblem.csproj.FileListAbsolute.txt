@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\bin\Debug\net7.0\DiamondProblem.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\bin\Debug\net7.0\DiamondProblem.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\bin\Debug\net7.0\DiamondProblem.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\bin\Debug\net7.0\DiamondProblem.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\bin\Debug\net7.0\DiamondProblem.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\refint\DiamondProblem.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\DiamondProblem.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao14-Interfaces\DiamondProblem\DiamondProblem\obj\Debug\net7.0\ref\DiamondProblem.dll
